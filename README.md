@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Suravarapu Abhiram
+# Hi there! I'm Suravarapu Abhiram
 
 <div align="center">
 
@@ -6,29 +6,29 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-🎓 **Computer Science & Engineering (AI)** student at Amrita Vishwa Vidyapeetham (2022-2026)  
-☁️ **AWS Certified Cloud Practitioner** | 🏆 **Amazon Summer School Top 3K** | 🥇 **Amazon ML Challenge 250th**  
-🤖 **AI/ML Researcher** specializing in Reinforcement Learning, Computer Vision, and Healthcare AI  
-📚 **IEEE Published Researcher** with 2 conference papers on ML and robotics  
+**Computer Science & Engineering (AI)** student at Amrita Vishwa Vidyapeetham (2022-2026)  
+**AWS Certified Cloud Practitioner** | **Amazon Summer School Top 3K** | **Amazon ML Challenge 250th**  
+**AI/ML Researcher** specializing in Reinforcement Learning, Computer Vision, and Healthcare AI  
+**IEEE Published Researcher** with 2 conference papers on ML and robotics  
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 | Achievement | Details |
 |-------------|---------|
-| 🏆 **Amazon Summer School 2025** | Top 3,000 from 50,000+ global participants |
-| 🥇 **Amazon ML Challenge 2024** | 250th position globally |
-| 🚀 **Rocket Landing RL** | 8.4× sample efficiency improvement |
-| 🏥 **Medical AI** | Advanced RAG system with AWS deployment |
-| 🚗 **Traffic Detection** | 68% mAP50 accuracy on FGVD dataset |
-| ☁️ **AWS Certified** | Cloud Practitioner certification |
+| **Amazon Summer School 2025** | Top 3,000 from 50,000+ global participants |
+| **Amazon ML Challenge 2024** | 250th position globally |
+| **Rocket Landing RL** | 8.4× sample efficiency improvement |
+| **Medical AI** | Advanced RAG system with AWS deployment |
+| **Traffic Detection** | 68% mAP50 accuracy on FGVD dataset |
+| **AWS Certified** | Cloud Practitioner certification |
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,13 +63,13 @@
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 [Rocket Landing RL](https://github.com/Abhiram678/Rocket_landing)
+### [Rocket Landing RL](https://github.com/Abhiram678/Rocket_landing)
 **PPO vs SAC Comparison for Autonomous Landing**
 - 8.4× sample efficiency improvement
 - 23× training speedup (21 min vs 8 hours)
@@ -79,7 +79,7 @@
 </td>
 <td width="50%">
 
-### 🏥 [RAG Medical Chatbot](https://github.com/Abhiram678/RAG_MEDICAL_CHATBOT)
+### [RAG Medical Chatbot](https://github.com/Abhiram678/RAG_MEDICAL_CHATBOT)
 **Advanced Healthcare AI with AWS Deployment**
 - Retrieval-Augmented Generation for clinical PDFs
 - Groq AI integration with LangChain + FAISS
@@ -90,7 +90,7 @@
 <tr>
 <td width="50%">
 
-### 🚗 [Indian Traffic AI](https://github.com/Abhiram678/indian-traffic-ai)
+### [Indian Traffic AI](https://github.com/Abhiram678/indian-traffic-ai)
 **Real-time Vehicle Detection System**
 - YOLOv8 implementation
 - 68% mAP50 accuracy on FGVD dataset
@@ -100,7 +100,7 @@
 </td>
 <td width="50%">
 
-### 🛡️ [Phishing Shield](https://github.com/Abhiram678/phishing_shield)
+### [Phishing Shield](https://github.com/Abhiram678/phishing_shield)
 **Advanced URL Threat Analysis**
 - Comprehensive URL structure analysis
 - Domain reputation checking
@@ -113,15 +113,15 @@
 
 ---
 
-## 📚 Research Publications
+## Research Publications
 
-### 🏥 **Healthcare AI**
+### **Healthcare AI**
 **[Liver Disease Prediction Using Machine Learning, Deep Learning, and Bayesian Networks](https://ieeexplore.ieee.org/document/10986922)**
 - Published in IEEE Xplore Digital Library
 - Comprehensive comparison of ML, DL, and Bayesian approaches
 - Advanced healthcare prediction models
 
-### 🤖 **Robotics**
+### **Robotics**
 **[Bidirectional Path Planning for Autonomous Robot Using Dijkstra Algorithm with PRM](https://ieeexplore.ieee.org/document/10958215)**
 - Published in IEEE Xplore Digital Library
 - Novel bidirectional path planning approach
@@ -129,7 +129,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -141,17 +141,17 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- **🤖 Advanced RL Algorithms** - Exploring hybrid approaches and multi-agent systems
-- **🏥 Healthcare AI** - Expanding medical AI applications and clinical decision support
-- **🚗 Computer Vision** - Developing robust object detection and classification systems
-- **🛡️ Cybersecurity** - Enhancing threat detection and security analysis
-- **☁️ Cloud AI** - Scaling AI applications with AWS cloud infrastructure
+- **Advanced RL Algorithms** - Exploring hybrid approaches and multi-agent systems
+- **Healthcare AI** - Expanding medical AI applications and clinical decision support
+- **Computer Vision** - Developing robust object detection and classification systems
+- **Cybersecurity** - Enhancing threat detection and security analysis
+- **Cloud AI** - Scaling AI applications with AWS cloud infrastructure
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -166,9 +166,9 @@
 
 <div align="center">
 
-### 💡 Fun Fact
-When I'm not coding or researching AI, you'll find me exploring aerospace technology, dreaming about Mars missions, and building the next generation of intelligent systems! 🚀
+### Fun Fact
+When I'm not coding or researching AI, you'll find me exploring aerospace technology, dreaming about Mars missions, and building the next generation of intelligent systems!
 
-*"The future belongs to those who can bridge the gap between AI research, cloud technology, and real-world applications."* ✨
+*"The future belongs to those who can bridge the gap between AI research, cloud technology, and real-world applications."*
 
 </div>
