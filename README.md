@@ -1,10 +1,6 @@
 # Hi there! I'm Suravarapu Abhiram
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhiram678&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
 
 ## About Me
 
